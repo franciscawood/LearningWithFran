@@ -24,8 +24,9 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1abc9c;
-  --secondary: #2c3e50;
+  --primary: #824C71;
+  --secondary: #616163;
+  --tertiary: #d4adcf;
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
@@ -6085,6 +6086,18 @@ button.bg-secondary:hover,
 button.bg-secondary:focus {
   background-color: #484849 !important;
 }
+
+
+.bg-tertiary {
+  background-color: #d4adcf !important;
+}
+
+a.bg-tertiary:hover, a.bg-tertiary:focus,
+button.bg-secondary:hover,
+button.bg-secondary:focus {
+  background-color: #c28cbb !important;
+}
+
 
 .bg-success {
   background-color: #28a745 !important;
