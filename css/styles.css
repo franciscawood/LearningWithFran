@@ -403,6 +403,13 @@ h6, .h6 {
   font-style: oblique;
 }
 
+.contactLead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color:
+}
+
+
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -9775,7 +9782,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #2c3e50 !important;
+  color: #616163 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
