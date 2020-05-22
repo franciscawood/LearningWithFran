@@ -397,6 +397,11 @@ h6, .h6 {
   font-weight: 300;
 }
 
+.covidlead {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
 .ReviewerName {
   font-size: 1.25rem;
   font-weight: 300;
