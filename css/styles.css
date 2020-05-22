@@ -10109,6 +10109,12 @@ h3 {
     font-size: 1.5em;
   }
 }
+
+.covidhead {
+  padding-top: calc(1rem + 74px);
+  padding-bottom: 1rem;
+}
+
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
